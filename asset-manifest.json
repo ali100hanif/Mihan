@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mihan/static/css/main.16a76e48.css",
-    "main.js": "/Mihan/static/js/main.32a7594f.js",
+    "main.js": "/Mihan/static/js/main.874dc066.js",
     "static/js/787.d3befce1.chunk.js": "/Mihan/static/js/787.d3befce1.chunk.js",
     "static/media/2.jpg": "/Mihan/static/media/2.b6106daa42c9483e9bf2.jpg",
     "static/media/Vazir-Medium.ttf": "/Mihan/static/media/Vazir-Medium.36bc3e5e26823f9e9af8.ttf",
@@ -12,11 +12,11 @@
     "static/media/request.jpg": "/Mihan/static/media/request.9a14b67104ac012edf24.jpg",
     "index.html": "/Mihan/index.html",
     "main.16a76e48.css.map": "/Mihan/static/css/main.16a76e48.css.map",
-    "main.32a7594f.js.map": "/Mihan/static/js/main.32a7594f.js.map",
+    "main.874dc066.js.map": "/Mihan/static/js/main.874dc066.js.map",
     "787.d3befce1.chunk.js.map": "/Mihan/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16a76e48.css",
-    "static/js/main.32a7594f.js"
+    "static/js/main.874dc066.js"
   ]
 }
