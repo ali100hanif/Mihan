@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mihan/static/css/main.e7db3223.css",
-    "main.js": "/Mihan/static/js/main.0a15cd7e.js",
+    "main.css": "/Mihan/static/css/main.7dd8283a.css",
+    "main.js": "/Mihan/static/js/main.eef15751.js",
     "static/js/787.d3befce1.chunk.js": "/Mihan/static/js/787.d3befce1.chunk.js",
     "static/media/2.jpg": "/Mihan/static/media/2.b6106daa42c9483e9bf2.jpg",
     "static/media/systems.jpg": "/Mihan/static/media/systems.05e9546c604c5fe6163e.jpg",
@@ -9,17 +9,21 @@
     "static/media/Vazir-Medium.ttf": "/Mihan/static/media/Vazir-Medium.36bc3e5e26823f9e9af8.ttf",
     "static/media/Mihan.png": "/Mihan/static/media/Mihan.006844900d6f3f6fe1ae.png",
     "static/media/Vazir-Medium.woff": "/Mihan/static/media/Vazir-Medium.e5c2bbe6a0c77d2cf489.woff",
+    "static/media/پروفایل.jpg": "/Mihan/static/media/پروفایل.000c058d5207fb4f58de.jpg",
     "static/media/Vazir-Medium.woff2": "/Mihan/static/media/Vazir-Medium.276befd1faf18a3d9afb.woff2",
+    "static/media/بیمه.jpg": "/Mihan/static/media/بیمه.c3db7e046800850eaada.jpg",
     "static/media/analyz.jpg": "/Mihan/static/media/analyz.9fcc01b0d077394ea997.jpg",
     "static/media/request.jpg": "/Mihan/static/media/request.9a14b67104ac012edf24.jpg",
+    "static/media/حضوروغیاب.jpg": "/Mihan/static/media/حضوروغیاب.85096c08156824be24dc.jpg",
     "static/media/toolbarIcon.png": "/Mihan/static/media/toolbarIcon.a7771dec6435890d21f3.png",
+    "static/media/fish.jfif": "/Mihan/static/media/fish.05ee69f9d8b60f43e9ec.jfif",
     "index.html": "/Mihan/index.html",
-    "main.e7db3223.css.map": "/Mihan/static/css/main.e7db3223.css.map",
-    "main.0a15cd7e.js.map": "/Mihan/static/js/main.0a15cd7e.js.map",
+    "main.7dd8283a.css.map": "/Mihan/static/css/main.7dd8283a.css.map",
+    "main.eef15751.js.map": "/Mihan/static/js/main.eef15751.js.map",
     "787.d3befce1.chunk.js.map": "/Mihan/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7db3223.css",
-    "static/js/main.0a15cd7e.js"
+    "static/css/main.7dd8283a.css",
+    "static/js/main.eef15751.js"
   ]
 }
